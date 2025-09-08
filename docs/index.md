@@ -25,8 +25,7 @@ Au cœur du système : **l’Ether**.
 Une ressource unique qui peut représenter la fatigue, le stress, la magie, la santé mentale… ou même la batterie d’un robot.  
 
 ## 📖 Lire & Télécharger
-- **Version web (règles en ligne)** : [lire Ether](./Ether/)
-- **Texte brut (ZIP du dépôt)** : [télécharger](https://github.com/<ton-user>/<ton-depot>/archive/refs/heads/main.zip)
+EN CONSTRUCTION
 
 ## 📜 Licence
 Projet sous [CC BY-NC-SA 4.0](../LICENSE.md).  

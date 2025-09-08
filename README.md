@@ -5,8 +5,6 @@ Un **système de jeu de rôle amateur en français**, écrit par mes petites pat
 [![Release](https://img.shields.io/github/v/release/<ton-user>/<ton-depot>?label=release)](https://github.com/<ton-user>/<ton-depot>/releases)
 [![Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://<ton-user>.github.io/<ton-depot>/)
 
-[![Télécharger – Texte brut](https://img.shields.io/badge/⬇️%20Télécharger-Texte%20brut-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/OursBlanc42/Ether/main/docs/ETHER.md)
-[![Voir – Version web](https://img.shields.io/badge/🌐%20Voir-Version%20web-blue?style=for-the-badge)](https://<ton-user>.github.io/<ton-depot>/)
 
 ---
 
@@ -42,8 +40,7 @@ Une ressource unique qui peut représenter la fatigue, le stress, la magie, la s
 ---
 
 ## 📖 Lire & Télécharger
-- La version texte brute se trouve ici : [Ether.md](./Ether.md)  
-- La version web est disponible sur le **[site web](https://<ton-user>.github.io/<ton-depot>/)**.  
+En construction
 
 ---
 
