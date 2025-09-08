@@ -19,7 +19,7 @@ Voici quelques règles simples pour contribuer efficacement.
 
 - Nous utilisons **[Gitmoji](https://gitmoji.dev/)** pour rendre l’historique fun et clair.  
 - Choisis un emoji adapté (✨ nouvelle règle, 🐛 correction, 📚 doc, etc.).  
-- Écris ton titre en **anglais**, au format *impératif court*.  
+- Écris ton titre et ton message en **anglais**, au format *impératif court*.  
 
 **Exemples :**
 ```bash
@@ -29,6 +29,14 @@ Voici quelques règles simples pour contribuer efficacement.
 ```
 
 - Aprés le titre, une description plus détaillée dans le commit message.
+
+---
+
+## 🔀 Merge des Pull Requests
+
+Toutes les PR sont mergées avec **Squash and Merge**.  
+👉 Cela permet de garder `main` propre : **1 commit = 1 PR**.  
+L’historique détaillé reste toujours visible dans la Pull Request sur GitHub.
 
 ---
 
