@@ -5,7 +5,7 @@ Un **système de jeu de rôle amateur en français**, écrit par mes petites pat
 [![Release](https://img.shields.io/github/v/release/<ton-user>/<ton-depot>?label=release)](https://github.com/<ton-user>/<ton-depot>/releases)
 [![Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://<ton-user>.github.io/<ton-depot>/)
 
-[![Télécharger – Texte brut](https://img.shields.io/badge/⬇️%20Télécharger-Texte%20brut-brightgreen?style=for-the-badge)](https://github.com/<ton-user>/<ton-depot>/archive/refs/heads/main.zip)
+[![Télécharger – Texte brut](https://img.shields.io/badge/⬇️%20Télécharger-Texte%20brut-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/OursBlanc42/Ether/main/docs/ETHER.md)
 [![Voir – Version web](https://img.shields.io/badge/🌐%20Voir-Version%20web-blue?style=for-the-badge)](https://<ton-user>.github.io/<ton-depot>/)
 
 ---
@@ -62,5 +62,6 @@ Une ressource unique qui peut représenter la fatigue, le stress, la magie, la s
 
 ## 📜 Licence
 Ce projet est distribué sous licence [CC BY-NC-SA 4.0](./LICENSE.md).  
-Usage non-commercial, partage possible avec attribution et mêmes conditions.  
-Pour toute exploitation commerciale (édition, revente, adaptation payante, etc.), merci de me contacter pour discuter d’une licence spécifique.
+Usage non-commercial, partage possible avec attribution et mêmes conditions.
+
+- Pour toute exploitation commerciale (édition, revente, adaptation payante, etc.) : contactez moi !
