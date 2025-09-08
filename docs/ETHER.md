@@ -64,12 +64,12 @@
 Ether est un jeu de rôle et d'aventure conçu pour un meneur de jeu et trois à cinq joueurs environ.
 
 Ether a été conçu en gardant à l'esprit quelques principes directeurs :
-**Minimaliste :** Des régles simples, qui vont à l'essentiel, mettant l'accent sur l'aspect narratif plutot que les jets de dés, le calcul des modificateurs, et métagrobill.
-**Modulaire :** La plupart des blocs de régles sont optionnels et peuvent etre supprimé pour ne garder que le Coeur du systeme de jeu
-**Narratif :** Les régles sont un cadre et pas une contrainte, l'objectif est de s'amuser et de se raconte deshistoires.
+**Minimaliste :** Des règles simples, qui vont à l'essentiel, mettant l'accent sur l'aspect narratif plûtot que les jets de dés, le calcul des modificateurs, et métagrobill.
+**Modulaire :** La plupart des blocs de règles sont optionnels et peuvent être supprimés pour ne garder que le Cœur du système de jeu
+**Narratif :** Les règles sont un cadre et pas une contrainte, l'objectif est de s'amuser et de se raconte des histoires.
 **Simplicité :** Un seul type de dés, les dés à six faces (appelé  D6 par la suite) , facile à trouver, et facilement identifiable pour des néophytes. Les calculs sont simples. Pas de modificateurs complexe " 3D4 + 1D7 - 12 + l'age du capitaine multiplié par le chiffre des dizaines sur un D20 !"
 **Adaptabilité :** Bien que ce livre de régles soit orienté pour des aventures médiéval fantastique avec des épées et de la sorcellerie, il a été pensé pour être adapté à d'autres univers comme de l'horreur lovecraftienne ou du space opéra !
-**Progession :** Ether a été concu pour évoluer d'une simple partie à une campagne de longue durée permettant de l'évolution aux protagnistes.
+**Progression :** Ether a été conçu pour évoluer d'une simple partie à une campagne de longue durée permettant de l'évolution aux protagonistes.
 
 Enfin, Ether est orienté autour de la ressource centrale du jeu ... l'Ether ! Il représente à la fois :
 -   L'endurance physique, la résistance mentale, le stress, la fatigue ou encore les réserves d'énergie.
@@ -232,9 +232,9 @@ Un jet en opposition fonctionne **exactement comme un jet d’action classique**
 
 1. **Difficulté variable** : la difficulté n’est plus un seuil fixe, mais le résultat du jet de l’adversaire.  
 2. **Capacités passives** : S'active automatiquement si la situation le permet.
-3. **Capacités actives** : les joueurs (ou PNJ) doivent annoncer et  leurs Capacités actives avant de lancer les dés, sans connaître le score de leur opposant.  
+3. **Capacités actives** : les joueurs (ou PNJ) doivent annoncer leurs Capacités actives avant de lancer les dés, sans connaître le score de leur opposant.  
 4. **Résultat** : chacun conserve ses deux meilleurs dés comme d’habitude. Le plus haut score l’emporte.  
-5. **Égalité** : en cas de scores identiques, la situation reste bloquée, ou bien l’avantage revient au défenseur ou à la discrétion choix du MJ.  
+5. **Égalité** : en cas de scores identiques, la situation reste bloquée, ou bien l’avantage revient au défenseur ou à la discrétion du MJ.  
   
 
 **Exemples de jets en opposition :**

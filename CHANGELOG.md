@@ -14,7 +14,7 @@ et les numéros de version respectent [SemVer](https://semver.org/lang/fr/).
 - À compléter
 
 ### Corrigé
-- À compléte
+- À compléter
 
 ---
 
