@@ -1,5 +1,27 @@
 # 🎲 ETHER
-Un **système de jeu de rôle amateur en français**, minimaliste, modulaire, narratif, simple, adaptable, et progressif écrit par mes petites pattes d’ours.  
+Un **système de jeu de rôle amateur en français**, minimaliste, modulaire, narratif, simple, adaptable, et progressif écrit par mes petites pattes d’ours.
 
-Pour plus d'informations :
+## Informations
+
+👉 La version complète (concepts, règles, téléchargements) est disponible sur la page GitHub Pages :  
+🌐 [**Voir le site du projet**](https://oursblanc42.github.io/Ether/)
+
+---
+
+## 📜 Licence
+Ce projet est distribué sous licence [CC BY-NC-SA 4.0](./LICENSE.md).  
+Usage non-commercial, partage possible avec attribution et mêmes conditions.
+
+- Pour toute exploitation commerciale (édition, revente, adaptation payante, etc.) : contactez moi !
+
+---
+
+## Gitmoji
+Propulsé entre autre par :
+<a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
 
