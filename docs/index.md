@@ -55,7 +55,7 @@ Une ressource unique qui peut représenter la fatigue, le stress, la magie, la s
 - Ajouter illustrations, couleurs, exemples.
 - Refaire la mise en page
 - Préparer une page web (github pages)
-- Automatisation de l'envoie des nouvelles versions sur itch.io (si possible)
+- Automatisation de l'envoi des nouvelles versions sur itch.io (si possible)
 - Automatisation de la création des numéros de versions pour les futures versions
 - Traduction en anglais (pour commencer)
 - Traduction dans d'autres langues
