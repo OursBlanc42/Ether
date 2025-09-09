@@ -67,7 +67,7 @@ Ether a été conçu en gardant à l'esprit quelques principes directeurs :
 **Minimaliste :** Des règles simples, qui vont à l'essentiel, mettant l'accent sur l'aspect narratif plûtot que les jets de dés, le calcul des modificateurs, et métagrobill.
 **Modulaire :** La plupart des blocs de règles sont optionnels et peuvent être supprimés pour ne garder que le Cœur du système de jeu
 **Narratif :** Les règles sont un cadre et pas une contrainte, l'objectif est de s'amuser et de se raconte des histoires.
-**Simplicité :** Un seul type de dés, les dés à six faces (appelé  D6 par la suite) , facile à trouver, et facilement identifiable pour des néophytes. Les calculs sont simples. Pas de modificateurs complexe " 3D4 + 1D7 - 12 + l'age du capitaine multiplié par le chiffre des dizaines sur un D20 !"
+**Simplicité :** Un seul type de dés, les dés à six faces (appelés  D6 par la suite) , facile à trouver, et facilement identifiable pour des néophytes. Les calculs sont simples. Pas de modificateurs complexe " 3D4 + 1D7 - 12 + l'age du capitaine multiplié par le chiffre des dizaines sur un D20 !"
 **Adaptabilité :** Bien que ce livre de régles soit orienté pour des aventures médiéval fantastique avec des épées et de la sorcellerie, il a été pensé pour être adapté à d'autres univers comme de l'horreur lovecraftienne ou du space opéra !
 **Progression :** Ether a été conçu pour évoluer d'une simple partie à une campagne de longue durée permettant de l'évolution aux protagonistes.
 
@@ -501,7 +501,7 @@ Un rayon énergétique calibré pour perturber les champs de protection ou fragi
 
 | Niveau | Effet | Coût en XP | Coût en Éther |
 |--------|-------|------------|---------------|
-| 1 (base) | Aprés une attaque réussit, au lieu d'infliger des dégats : réduit la Défense de la cible de 1 jusqu’à la fin du combat. | 5 XP | 2 |
+| 1 (base) | Après une attaque réussit, au lieu d'infliger des dégats : réduit la Défense de la cible de 1 jusqu’à la fin du combat. | 5 XP | 2 |
 | 2 | Réduction de coût en Éther (passe à 1) | 5 XP | 1 |
 | 3 | L’effet narratif s’amplifie : la Défense de la cible est réduite de **2** | 5 XP | 2 |
 | 4 | Nouvelle réduction de coût en Éther (minimum atteint à 1) → bonus optionnel (le joueur peut proposer un autre effet narratif au MJ à la place) | 5 XP | 1 |
@@ -627,7 +627,7 @@ Dans Ether, pas besoin de compter chaque flèche ou gramme d'équipement. On mis
   *Les munitions ne manquent que lors d'un échec critique, d'une complication narrative, ou d'une situation spéciale décidée par le MJ.*
 
 - **Encombrement intuitif** : Pas de calculs fastidieux - on se fie au simple bon sens.
-  *Trois dagues? Bien sûr. Trois fût de biére? Impossible !*
+  *Trois dagues? Bien sûr. Trois fûts de biére? Impossible !*
 
 - **Objets spécifiques** : Tout objet inhabituel pour votre personnage doit être mentionné avant l'aventure.
   *"Mon aristocrate emporte une pelle pliante dans ses bagages" - à préciser lors de la préparation.*
