@@ -42,7 +42,7 @@ Une ressource unique qui peut représenter la fatigue, le stress, la magie, la s
 ---
 
 ## 📖 Lire & Télécharger
-[![⬇️ Télécharger – Texte brut](https://img.shields.io/badge/⬇️%20Télécharger-Texte%20brut-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/OursBlanc42/Ether/main/docs/ETHER.md)
+[![⬇️ Télécharger – PDF](https://img.shields.io/badge/⬇️%20Télécharger-PDF-brightgreen?style=for-the-badge)](https://github.com/OursBlanc42/Ether/releases/latest/download/ETHER.pdf)
 
 [![🌐 Voir – Règles complètes](https://img.shields.io/badge/🌐%20Voir-Règles%20complètes-blue?style=for-the-badge)](./ETHER.md)
 
