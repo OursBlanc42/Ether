@@ -1,0 +1,28 @@
+name: Export Markdown to PDF
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc and TeX Live
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base
+
+      - name: Convert ETHER.md to PDF
+        run: |
+          pandoc docs/ETHER.md -o docs/ETHER.pdf
+
+      - name: Upload PDF as release asset
+        uses: softprops/action-gh-release@v2
+        with:
+          files: docs/ETHER.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
