@@ -42,8 +42,8 @@ Une ressource unique qui peut représenter la fatigue, le stress, la magie, la s
 ---
 
 ## 📖 Lire & Télécharger
-[![⬇️ Télécharger – PDF](https://img.shields.io/badge/⬇️%20Télécharger-PDF-brightgreen?style=for-the-badge)](https://github.com/OursBlanc42/Ether/releases/latest/download/ETHER.pdf)
 
+[![⬇️ Télécharger – PDF](https://img.shields.io/badge/⬇️%20Télécharger-PDF-brightgreen?style=for-the-badge)](https://github.com/OursBlanc42/Ether/releases/latest/download/ETHER.pdf)
 [![🌐 Voir – Règles complètes](https://img.shields.io/badge/🌐%20Voir-Règles%20complètes-blue?style=for-the-badge)](./ETHER.md)
 
 
@@ -55,7 +55,7 @@ Une ressource unique qui peut représenter la fatigue, le stress, la magie, la s
 - Ajouter illustrations, couleurs, exemples.
 - Refaire la mise en page
 - Préparer une page web (github pages)
-- Automatisation de l'envoi des nouvelles versions sur itch.io (si possible)
+- Automatisation de l'envoie des nouvelles versions sur itch.io (si possible)
 - Automatisation de la création des numéros de versions pour les futures versions
 - Traduction en anglais (pour commencer)
 - Traduction dans d'autres langues
