@@ -17,7 +17,13 @@ Voici quelques règles simples pour contribuer efficacement.
 
 ## 📝 Commits
 
-- Nous utilisons **[Gitmoji](https://gitmoji.dev/)** pour rendre l’historique fun et clair.  
+- Nous utilisons **GitMoji** pour rendre l’historique fun et clair.  
+<a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
 - Choisis un emoji adapté (✨ nouvelle règle, 🐛 correction, 📚 doc, etc.).  
 - Écris ton titre et ton message en **anglais**, au format *impératif court*.  
 

@@ -14,14 +14,3 @@ Usage non-commercial, partage possible avec attribution et mêmes conditions.
 
 - Pour toute exploitation commerciale (édition, revente, adaptation payante, etc.) : contactez moi !
 
----
-
-## Gitmoji
-Propulsé entre autre par :
-<a href="https://gitmoji.dev">
-  <img
-    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
-    alt="Gitmoji"
-  />
-</a>
-
