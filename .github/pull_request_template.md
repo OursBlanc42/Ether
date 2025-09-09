@@ -26,7 +26,7 @@ _Cochez ce qui est fait. Si un point ne s’applique pas, indiquez `N/A`._
 ### Modifications administratives / infrastructure
 
 - [ ] Fichiers de configuration ou scripts modifiés (GitHub Actions, Pages, etc.).
-- [ ] Lien(s) mis à jours et testé.
+- [ ] Lien(s) mis à jour et testés.
 - [ ] Le site gh-pages est fonctionnel (si modification).
 
 ---
