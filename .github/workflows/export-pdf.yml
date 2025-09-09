@@ -18,7 +18,7 @@ jobs:
 
       - name: Convert ETHER.md to PDF
         run: |
-          pandoc docs/ETHER.md -o docs/ETHER.pdf --fail-if-warnings
+          pandoc docs/ETHER.md -o docs/ETHER.pdf --fail-if-warnings --pdf-engine=xelatex --variable geometry:margin=1in
 
       - name: Upload PDF as release asset
         uses: softprops/action-gh-release@v2
