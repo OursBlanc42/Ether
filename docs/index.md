@@ -59,7 +59,7 @@ Une ressource unique qui peut représenter la fatigue, le stress, la magie, la s
 - Automatisation de la création des numéros de versions pour les futures versions
 - Traduction en anglais (pour commencer)
 - Traduction dans d'autres langues
-- Création des PDF automatiquement à chaque vesrion
+- Création des PDF automatiquement à chaque version
 
 ---
 
