@@ -1,26 +1,35 @@
-name: Export Markdown to PDF
+name: Build and Release PDF
 
 on:
   release:
     types: [published]
+  workflow_dispatch:
 
 jobs:
-  build-pdf:
+  build-and-release:
+    name: Build and Release PDF
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Pandoc and TeX Live
+      - name: Install Pandoc, LaTeX, and Fonts
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-latex-recommended texlive-fonts-recommended
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended fonts-noto-color-emoji fonts-dejavu
 
-      - name: Convert ETHER.md to PDF
+      - name: Convert Markdown to PDF
         run: |
-          pandoc docs/ETHER.md -o docs/ETHER.pdf --fail-if-warnings --pdf-engine=xelatex --variable geometry:margin=1in
+          pandoc docs/ETHER.md \
+            -o docs/ETHER.pdf \
+            --pdf-engine=xelatex \
+            --variable mainfont="DejaVu Sans" \
+            --variable emojifont="Noto Color Emoji" \
+            --variable geometry:margin=1in
 
-      - name: Upload PDF as release asset
+      - name: Upload PDF to Release
         uses: softprops/action-gh-release@v2
         with:
           files: docs/ETHER.pdf
